@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+
+#root > main > div > h1{
+    font-family: 'Courgette', cursive !important;
+    text-align: right; 
+}
+
+#root > main > div > h3 {
+    text-align: right;
+}
+
+.container{
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.home {
+    background-image:url("../../images/index.png");
+    max-width: 100%;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding-right: 90px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.home div{
+    text-align: center;
+}

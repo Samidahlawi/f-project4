@@ -1,0 +1,22 @@
+.bg-color{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: grey (173, 216, 230);
+    width: 100%;
+    height: 100%;
+    }
+    .App{
+        display: flexbox;
+    }
+    .form{
+        border-radius: 10px;
+        background-color: rgba(241, 241, 241, 0.815);
+        margin: 2% 15%;
+        padding: 10px;
+        text-align: center;
+    }
+    .mar{
+        text-align: left;
+    }

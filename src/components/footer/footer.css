@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css?family=Space+Mono&display=swap');
+.Footer {
+    /* display: flex;
+    flex-direction: column; */
+    /* position: fixed;
+    right: 10px;
+    bottom: 10px; */
+    /* position: absolute;
+    bottom: 10px;
+    right: 10px; */
+    /* display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 10px;
+    right: 15px; */
+    font-family: 'Space Mono', monospace, Arial,sans-serif;
+    text-align: right;
+}
+

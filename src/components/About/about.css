@@ -1,0 +1,17 @@
+/* @import url('https://fonts.googleapis.com/css?family=Courgette&display=swap'); */
+
+.font {
+    font-family: 'Courgette', cursive !important;
+    color: #CC9999;
+    text-align: center;
+}
+.pcontent {
+    text-align: center;
+  
+}
+.about-content{
+    width: 65vh;
+    height: 70vh;
+    margin: 7% auto;
+    border:black solid 14px;
+}
